@@ -146,6 +146,12 @@ ors:
     profiles:
       car:
         enabled: true
+      hgv:
+        enabled: true
+      bike-regular:
+        enabled: true
+      walking:
+        enabled: true
 #        profile: driving-car
 #        elevation: true
 #        encoder_options:
